@@ -1,4 +1,4 @@
-![](png/portada.jpg)
+![](/png/portada.jpg)
 
 "Remasterización" del manual del usuario del Amstrad CPC464.
 
